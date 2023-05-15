@@ -1,3 +1,5 @@
+In this project, I used Reactjs in the frontend section. Also, used api to extract information about different mission details conducted by spacex and also added filters to filter out through year, rocket land success, and rocket launch success. Also, in the whole developement process i have not used any bootstrap or similar type of libraries. And atlast used vercel to deploy the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
